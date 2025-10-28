@@ -8,13 +8,25 @@ Este repositório contém os projetos que estou desenvolvendo ao longo da minha 
 
 - É um Website desenvolvido durante o curso de JavaScritp ES6+. Este projeto mostra uma variedade de habilidades aprendidas ao criar vários efeitos do zero usando JavaScript.
 
-2. [Calculadora de IMC](https://jrs-neto.github.io/projects/imc-calculator/index.html)
+2. [Weather Forecast](https://jrs-neto.github.io/projects/weather-forecast/index.html)
+
+- É um Website desenvolvido para consultar a **previsão do tempo em tempo real** de qualquer cidade, utilizando a **API OpenWeatherMap**.
+
+3. [Text to Voice Converter](https://jrs-neto.github.io/projects/text-to-voice-converter/index.html)
+
+- Um projeto simples e funcional de **conversão de texto em fala**, desenvolvido com **HTML**, **CSS** e **JavaScript**, utilizando a **Web Speech API** nativa dos navegadores. Este projeto permite que o usuário insira um texto, escolha uma voz e ouça a conversão em tempo real.
+
+4. [Portfólio Demonstração](https://jrs-neto.github.io/projects/project-portfolio/index.html)
+
+Este é um **projeto de demonstração** de portfólio pessoal, criado para mostrar habilidades em Front End usando **HTML** e **CSS** .
+
+5. [Calculadora de IMC](https://jrs-neto.github.io/projects/imc-calculator/index.html)
 
 - Projeto desenvolvido com HTML, CSS e JavaScript para calcular o Índice de Massa Corporal (IMC) e fornecer feedback visual e textual baseado nos resultados.
 
-3. [Weather Forecast](https://jrs-neto.github.io/projects/weather-forecast/index.html)
+6. [Relógio Digital](https://jrs-neto.github.io/projects/digital-clock/index.html)
 
-- É um Website desenvolvido para consultar a **previsão do tempo em tempo real** de qualquer cidade, utilizando a **API OpenWeatherMap**.
+- Um projeto simples em **HTML**, **CSS** e **JavaScript** que exibe **horas**, **minutos** e **segundos em tempo real** com atualização automática.
 
 (Novos projetos serão adicionados em breve!)
 

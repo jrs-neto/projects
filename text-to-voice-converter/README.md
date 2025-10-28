@@ -4,7 +4,7 @@ Um projeto simples e funcional de **conversão de texto em fala**, desenvolvido 
 
 ## 🎬 Demo
 
-🚀*[Clique aqui para visualizar o projeto](https://seu-link-aqui.github.io/text-to-speech/)*
+🚀*[Clique aqui para visualizar o projeto](https://jrs-neto.github.io/projects/text-to-voice-converter/index.html)*
 
 ![Text To Speech Converter Screenshot](./assets/images/screenshot.png)
 

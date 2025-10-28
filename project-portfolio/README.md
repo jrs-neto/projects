@@ -2,13 +2,13 @@
 
 Este é um **projeto de demonstração** de portfólio pessoal, criado para mostrar habilidades em Front End e UX/UI Design usando **HTML** e **CSS** .
 
-## Demo
+## 🎬 Demo
 
-[Clique aqui]() para acessar o Website.
+🚀*[Clique aqui para visualizar o projeto](https://jrs-neto.github.io/projects/project-portfolio/index.html)*
 
 ![Lobo Portifólio](./img/preview.gif)
 
-## Sobre o Projeto
+## 🧠 Sobre o Projeto
 
 O portfólio demonstra:
 
@@ -22,13 +22,13 @@ O portfólio demonstra:
 
 O design é **moderno**, **responsivo** e **organizado**, utilizando **CSS Grid** e **Flexbox**, ideal para estudos e demonstração de habilidades.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 -**HTML5**
 
 -**CSS3** (modularizado por seções)
 
-## Principais Características
+## 🚀 Principais Características
 
 **Design responsivo** usando CSS Grid e Flexbox, adaptando-se a diferentes dispositivos.
 
@@ -42,12 +42,12 @@ O design é **moderno**, **responsivo** e **organizado**, utilizando **CSS Grid*
 
 **Layout escalável**, pronto para incluir novos projetos, cursos ou informações de contato.
 
-## Estrutura do Projeto
+## 🧩 Estrutura do Projeto
 
 /img -> Imagens de demonstração
 /css -> CSS modularizado por seção
 index.html -> Página principal do portfólio
 
-## Contribuição e modificação do projeto
+## 🤝 Contribuição e modificação do projeto
 
 Se encontrar algum problema ou se tiver alguma sugestão para melhoria do projeto, sinta-se a vontade para abrir um **issue** ou **pull request**.
