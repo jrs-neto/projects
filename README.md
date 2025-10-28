@@ -18,7 +18,7 @@ Este repositório contém os projetos que estou desenvolvendo ao longo da minha 
 
 4. [Portfólio Demonstração](https://jrs-neto.github.io/projects/project-portfolio/index.html)
 
-Este é um **projeto de demonstração** de portfólio pessoal, criado para mostrar habilidades em Front End usando **HTML** e **CSS** .
+- Este é um **projeto de demonstração** de portfólio pessoal, criado para mostrar habilidades em Front End usando **HTML** e **CSS** .
 
 5. [Calculadora de IMC](https://jrs-neto.github.io/projects/imc-calculator/index.html)
 
